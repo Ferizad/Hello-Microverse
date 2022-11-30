@@ -29,9 +29,9 @@ To get a local copy up and running, follow these steps.
 
 👤 **Ferizad**
 
-- GitHub: [@Ferizad](https://github.com/githubhandle)
-- Twitter: [@FerizadK](https://twitter.com/twitterhandle)
-- LinkedIn: [Ferizad Kanafina](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Ferizad](https://github.com/Ferizad)
+- Twitter: [@FerizadK](https://twitter.com/FerizadK)
+- LinkedIn: [Ferizad Kanafina](https://www.linkedin.com/in/ferizad-kanafina-b41061253/)
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
