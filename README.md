@@ -31,7 +31,7 @@ To get a local copy up and running, follow these steps.
 
 - GitHub: [@Ferizad](https://github.com/githubhandle)
 - Twitter: [@FerizadK](https://twitter.com/twitterhandle)
-- LinkedIn: [Ferizad](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [Ferizad Kanafina](https://linkedin.com/in/linkedinhandle)
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
